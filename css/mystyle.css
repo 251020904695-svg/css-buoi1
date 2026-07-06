@@ -1,0 +1,35 @@
+h1,h2,h3{
+    color:white;
+    text-align: center;
+    background-color: red;
+}
+/*ccs viet sau se duoc uu tien hon css viet truoc*/
+.thu2{/*class*/
+    color:blueviolet;
+    background-color:rgb(40, 191, 191);
+    font-size: 50px;
+    text-align: center;
+    
+}
+#thu2{
+    color:red;
+}
+#chamngoan{/*id*/
+    color:aquamarine;
+    background-color: blue;
+    font-size: 50px;
+    text-align: center;
+} */
+/* id khong cho phep trung nhau */
+
+*{
+    padding: 0;
+    margin: 0;
+    
+
+}
+
+
+
+
+ 
